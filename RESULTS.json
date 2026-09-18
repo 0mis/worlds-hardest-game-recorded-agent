@@ -1,0 +1,276 @@
+{
+  "experiment": "Worlds Hardest Game - state-aware, frame-stepped control",
+  "date_utc": "2026-09-18",
+  "trials": 1,
+  "levels_completed": 30,
+  "deaths": 1,
+  "game_timer_seconds": 639.075,
+  "game_timer_definition": "Virtual active game ticks, excluding held planning time; includes ordinary game intermissions.",
+  "wall_seconds_from_first_level_to_win": 1806.058,
+  "recording_seconds": 1939.316667,
+  "edited_video_seconds_expected": 1250.675,
+  "removed_long_idle_seconds": 688.625,
+  "edit_method": "Only long visual freezes outside all action intervals plus a 2-second margin; no gameplay speed changes.",
+  "public_audio_streams_required": 0,
+  "executed_actions": 2028,
+  "executed_game_ticks": 25767,
+  "requested_capture_fps": 40,
+  "assets_verified": 41,
+  "all_asset_hashes_match": true,
+  "sequential_audit_violations": [],
+  "recording_bytes": 179894278,
+  "recording_chunks": 1902,
+  "raw_recording_sha256": "64f842c00d1c4b97ced137e233fce07dba83b7405cb52b574063b074c42bb617",
+  "automated_campaign_planning_calls": 307,
+  "planning_seconds_total": 106.204,
+  "planning_seconds_median": 0.25,
+  "planning_scope": "Logged automated campaign calls; excludes early manual development and the Level 4 intervention.",
+  "limits": [
+    "One run with an intervention after the Level 4 death.",
+    "Exact state and game-source access; not vision-only.",
+    "Game time held between bounded input actions; not a real-time reflex benchmark.",
+    "Finite heuristic search; no optimality or general reliability claim."
+  ],
+  "levels": [
+    {
+      "level": 1,
+      "completion_tick": 389,
+      "cumulative_deaths": 0,
+      "collected_coins": 0,
+      "edited_start_seconds_approx": 15.451,
+      "edited_completion_seconds_approx": 28.873
+    },
+    {
+      "level": 2,
+      "completion_tick": 754,
+      "cumulative_deaths": 0,
+      "collected_coins": 9,
+      "edited_start_seconds_approx": 31.503,
+      "edited_completion_seconds_approx": 43.279
+    },
+    {
+      "level": 3,
+      "completion_tick": 2004,
+      "cumulative_deaths": 0,
+      "collected_coins": 4,
+      "edited_start_seconds_approx": 47.993,
+      "edited_completion_seconds_approx": 87.399
+    },
+    {
+      "level": 4,
+      "completion_tick": 2633,
+      "cumulative_deaths": 1,
+      "collected_coins": 10,
+      "edited_start_seconds_approx": 89.992,
+      "edited_completion_seconds_approx": 120.545
+    },
+    {
+      "level": 5,
+      "completion_tick": 4166,
+      "cumulative_deaths": 1,
+      "collected_coins": 11,
+      "edited_start_seconds_approx": 123.232,
+      "edited_completion_seconds_approx": 169.676
+    },
+    {
+      "level": 6,
+      "completion_tick": 5244,
+      "cumulative_deaths": 1,
+      "collected_coins": 4,
+      "edited_start_seconds_approx": 229.054,
+      "edited_completion_seconds_approx": 266.549
+    },
+    {
+      "level": 7,
+      "completion_tick": 5897,
+      "cumulative_deaths": 1,
+      "collected_coins": 36,
+      "edited_start_seconds_approx": 269.62,
+      "edited_completion_seconds_approx": 299.647
+    },
+    {
+      "level": 8,
+      "completion_tick": 6959,
+      "cumulative_deaths": 1,
+      "collected_coins": 10,
+      "edited_start_seconds_approx": 302.184,
+      "edited_completion_seconds_approx": 339.503
+    },
+    {
+      "level": 9,
+      "completion_tick": 7705,
+      "cumulative_deaths": 1,
+      "collected_coins": 10,
+      "edited_start_seconds_approx": 342.205,
+      "edited_completion_seconds_approx": 368.321
+    },
+    {
+      "level": 10,
+      "completion_tick": 8506,
+      "cumulative_deaths": 1,
+      "collected_coins": 0,
+      "edited_start_seconds_approx": 371.29,
+      "edited_completion_seconds_approx": 397.878
+    },
+    {
+      "level": 11,
+      "completion_tick": 10896,
+      "cumulative_deaths": 1,
+      "collected_coins": 18,
+      "edited_start_seconds_approx": 427.994,
+      "edited_completion_seconds_approx": 515.753
+    },
+    {
+      "level": 12,
+      "completion_tick": 11937,
+      "cumulative_deaths": 1,
+      "collected_coins": 3,
+      "edited_start_seconds_approx": 518.577,
+      "edited_completion_seconds_approx": 552.821
+    },
+    {
+      "level": 13,
+      "completion_tick": 12206,
+      "cumulative_deaths": 1,
+      "collected_coins": 0,
+      "edited_start_seconds_approx": 555.355,
+      "edited_completion_seconds_approx": 561.096
+    },
+    {
+      "level": 14,
+      "completion_tick": 12636,
+      "cumulative_deaths": 1,
+      "collected_coins": 0,
+      "edited_start_seconds_approx": 563.771,
+      "edited_completion_seconds_approx": 576.32
+    },
+    {
+      "level": 15,
+      "completion_tick": 13268,
+      "cumulative_deaths": 1,
+      "collected_coins": 0,
+      "edited_start_seconds_approx": 578.945,
+      "edited_completion_seconds_approx": 597.881
+    },
+    {
+      "level": 16,
+      "completion_tick": 13934,
+      "cumulative_deaths": 1,
+      "collected_coins": 27,
+      "edited_start_seconds_approx": 600.822,
+      "edited_completion_seconds_approx": 632.57
+    },
+    {
+      "level": 17,
+      "completion_tick": 14926,
+      "cumulative_deaths": 1,
+      "collected_coins": 0,
+      "edited_start_seconds_approx": 637.909,
+      "edited_completion_seconds_approx": 667.938
+    },
+    {
+      "level": 18,
+      "completion_tick": 15966,
+      "cumulative_deaths": 1,
+      "collected_coins": 135,
+      "edited_start_seconds_approx": 671.48,
+      "edited_completion_seconds_approx": 766.071
+    },
+    {
+      "level": 19,
+      "completion_tick": 16275,
+      "cumulative_deaths": 1,
+      "collected_coins": 0,
+      "edited_start_seconds_approx": 768.591,
+      "edited_completion_seconds_approx": 775.895
+    },
+    {
+      "level": 20,
+      "completion_tick": 17484,
+      "cumulative_deaths": 1,
+      "collected_coins": 7,
+      "edited_start_seconds_approx": 778.607,
+      "edited_completion_seconds_approx": 824.065
+    },
+    {
+      "level": 21,
+      "completion_tick": 17951,
+      "cumulative_deaths": 1,
+      "collected_coins": 18,
+      "edited_start_seconds_approx": 838.31,
+      "edited_completion_seconds_approx": 856.123
+    },
+    {
+      "level": 22,
+      "completion_tick": 18833,
+      "cumulative_deaths": 1,
+      "collected_coins": 15,
+      "edited_start_seconds_approx": 858.785,
+      "edited_completion_seconds_approx": 889.054
+    },
+    {
+      "level": 23,
+      "completion_tick": 19854,
+      "cumulative_deaths": 1,
+      "collected_coins": 39,
+      "edited_start_seconds_approx": 892.175,
+      "edited_completion_seconds_approx": 940.146
+    },
+    {
+      "level": 24,
+      "completion_tick": 20324,
+      "cumulative_deaths": 1,
+      "collected_coins": 2,
+      "edited_start_seconds_approx": 942.767,
+      "edited_completion_seconds_approx": 956.881
+    },
+    {
+      "level": 25,
+      "completion_tick": 20957,
+      "cumulative_deaths": 1,
+      "collected_coins": 30,
+      "edited_start_seconds_approx": 960.032,
+      "edited_completion_seconds_approx": 987.624
+    },
+    {
+      "level": 26,
+      "completion_tick": 22563,
+      "cumulative_deaths": 1,
+      "collected_coins": 25,
+      "edited_start_seconds_approx": 990.599,
+      "edited_completion_seconds_approx": 1058.276
+    },
+    {
+      "level": 27,
+      "completion_tick": 23273,
+      "cumulative_deaths": 1,
+      "collected_coins": 15,
+      "edited_start_seconds_approx": 1061.091,
+      "edited_completion_seconds_approx": 1089.575
+    },
+    {
+      "level": 28,
+      "completion_tick": 24014,
+      "cumulative_deaths": 1,
+      "collected_coins": 0,
+      "edited_start_seconds_approx": 1092.164,
+      "edited_completion_seconds_approx": 1116.535
+    },
+    {
+      "level": 29,
+      "completion_tick": 24528,
+      "cumulative_deaths": 1,
+      "collected_coins": 9,
+      "edited_start_seconds_approx": 1119.297,
+      "edited_completion_seconds_approx": 1138.164
+    },
+    {
+      "level": 30,
+      "completion_tick": 25567,
+      "cumulative_deaths": 1,
+      "collected_coins": 46,
+      "edited_start_seconds_approx": 1141.634,
+      "edited_completion_seconds_approx": 1208.732
+    }
+  ]
+}

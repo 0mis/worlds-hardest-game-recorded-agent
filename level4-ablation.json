@@ -1,0 +1,34 @@
+{
+  "case": "Initial Level 4 recorded observation",
+  "sourceFrame": 2085,
+  "method": "Same historical observation, same rules and target ranking; vary only endpoint viability. Simulation only.",
+  "limitations": "One case, bounded search; not a general success-rate estimate.",
+  "comparisons": [
+    {
+      "survivalTicks": 0,
+      "routeTicks": 60,
+      "expanded": 70,
+      "endpoint": {
+        "x": 416,
+        "y": 278
+      },
+      "nextCoinReachableWithinSearch": false,
+      "followupExpanded": 107,
+      "followupQueued": 0,
+      "followupTicks": null
+    },
+    {
+      "survivalTicks": 120,
+      "routeTicks": 60,
+      "expanded": 71,
+      "endpoint": {
+        "x": 434,
+        "y": 278
+      },
+      "nextCoinReachableWithinSearch": true,
+      "followupExpanded": 5,
+      "followupQueued": null,
+      "followupTicks": 4
+    }
+  ]
+}

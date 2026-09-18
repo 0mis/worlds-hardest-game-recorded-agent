@@ -1,0 +1,9 @@
+private-game/
+research/
+recordings/
+runtime/
+node_modules/
+__pycache__/
+*.log
+.env*
+CURRENT-STATE.md

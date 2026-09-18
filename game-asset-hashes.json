@@ -1,0 +1,248 @@
+[
+  {
+    "path": "jquery.min.js",
+    "url": "https://www.coolmathgames.com/sites/default/files/public_games/48362/jquery.min.js",
+    "bytes": 78768,
+    "sha256": "48d685402b465594e6ec567be7f1cddcedadc9b6721f5eed1ffe7555c15ef0dc"
+  },
+  {
+    "path": "jquery.hotkeys.js",
+    "url": "https://www.coolmathgames.com/sites/default/files/public_games/48362/jquery.hotkeys.js",
+    "bytes": 3097,
+    "sha256": "a2e03fcbfac953888f374438ff5b0c2064af22049a250c0a5fd7df14e743768e"
+  },
+  {
+    "path": "key_status.js",
+    "url": "https://www.coolmathgames.com/sites/default/files/public_games/48362/key_status.js",
+    "bytes": 470,
+    "sha256": "0cd8e511a72de5ce98b9df9d096ffe3b14bb5cbfa087c96a668e60f15a2ac1eb"
+  },
+  {
+    "path": "vars.js",
+    "url": "https://www.coolmathgames.com/sites/default/files/public_games/48362/vars.js",
+    "bytes": 9729,
+    "sha256": "0c644cc4b0b21517b734052b70bfb4065f0a34426abdd07497939610b3398db9"
+  },
+  {
+    "path": "sounds.js",
+    "url": "https://www.coolmathgames.com/sites/default/files/public_games/48362/sounds.js",
+    "bytes": 477,
+    "sha256": "49023aba2a21a71ccf3d432b488420763a66d94a08eee565d8158b21848f9f35"
+  },
+  {
+    "path": "colors.js",
+    "url": "https://www.coolmathgames.com/sites/default/files/public_games/48362/colors.js",
+    "bytes": 2076,
+    "sha256": "825dafcfce7b2246950acf2bf4b17a9558ea3a8f2f2c44abf0e0ffb0c4ae424f"
+  },
+  {
+    "path": "canvas.js",
+    "url": "https://www.coolmathgames.com/sites/default/files/public_games/48362/canvas.js",
+    "bytes": 360,
+    "sha256": "396324b048c38e91d967522f35beddf6935075e314e92c3860abb6cef591eba4"
+  },
+  {
+    "path": "timer.js",
+    "url": "https://www.coolmathgames.com/sites/default/files/public_games/48362/timer.js",
+    "bytes": 304,
+    "sha256": "7f654fb1c6ac8c8f5ca3386c7443b4c16b919a0752c0422f7d69dc27501dfff8"
+  },
+  {
+    "path": "border.js",
+    "url": "https://www.coolmathgames.com/sites/default/files/public_games/48362/border.js",
+    "bytes": 197,
+    "sha256": "b5a001fd2e6ae82a1001041c0a73e3762ebb46375d8046a436ef965e59440bac"
+  },
+  {
+    "path": "mobile_controls.js",
+    "url": "https://www.coolmathgames.com/sites/default/files/public_games/48362/mobile_controls.js",
+    "bytes": 18836,
+    "sha256": "087b806429bbbce2017c3fdbf7fd79d5ad4465fa252147c3324d003f9dc739ac"
+  },
+  {
+    "path": "walls.js",
+    "url": "https://www.coolmathgames.com/sites/default/files/public_games/48362/walls.js",
+    "bytes": 46348,
+    "sha256": "542f8b7da7752c6c87876342e1696ac71c7e5b506d3dddde0664992e266c1df5"
+  },
+  {
+    "path": "enemy.js",
+    "url": "https://www.coolmathgames.com/sites/default/files/public_games/48362/enemy.js",
+    "bytes": 78696,
+    "sha256": "3e3318fa4a6a80f62c43d76ce0a8221fbdf3f22d88be0bf497e9378f0eb6b1ee"
+  },
+  {
+    "path": "checkpoint.js",
+    "url": "https://www.coolmathgames.com/sites/default/files/public_games/48362/checkpoint.js",
+    "bytes": 2927,
+    "sha256": "2697521441373d725696553e8e0de0f14e84c7b4bc27510f8e5da90f96742b93"
+  },
+  {
+    "path": "coins.js",
+    "url": "https://www.coolmathgames.com/sites/default/files/public_games/48362/coins.js",
+    "bytes": 17663,
+    "sha256": "c9dee06b180ccd9e3531e5e417155d2e20299ccf7957160a353cecce0c988e3f"
+  },
+  {
+    "path": "player.js",
+    "url": "https://www.coolmathgames.com/sites/default/files/public_games/48362/player.js",
+    "bytes": 34880,
+    "sha256": "45801abe9b46985a1488a514e3ff24babe180c83d109d9090d5bc662f95b4fcd"
+  },
+  {
+    "path": "instructions.js",
+    "url": "https://www.coolmathgames.com/sites/default/files/public_games/48362/instructions.js",
+    "bytes": 3034,
+    "sha256": "0ff24a1ff21063171e34f9f6d79fc3b177aebfb73a21f3325b6d6af6ead72649"
+  },
+  {
+    "path": "intermission.js",
+    "url": "https://www.coolmathgames.com/sites/default/files/public_games/48362/intermission.js",
+    "bytes": 4399,
+    "sha256": "61145dc9ebca43f45c758e77cf460d40d918e73c7450e844e76935426cf5f2f7"
+  },
+  {
+    "path": "buttons.js",
+    "url": "https://www.coolmathgames.com/sites/default/files/public_games/48362/buttons.js",
+    "bytes": 16153,
+    "sha256": "25ee2bdf8d7337d6f213a41f18d61a026908ab21e05dfcb44bb50ed34515124b"
+  },
+  {
+    "path": "mouse.js",
+    "url": "https://www.coolmathgames.com/sites/default/files/public_games/48362/mouse.js",
+    "bytes": 792,
+    "sha256": "57d1d6257861f247f3b802627b06b778aeb43a931217590c03777c5d4b1eb2f9"
+  },
+  {
+    "path": "bars.js",
+    "url": "https://www.coolmathgames.com/sites/default/files/public_games/48362/bars.js",
+    "bytes": 10394,
+    "sha256": "7225766f0698ba6df7c8edfe9321d52972beab720d7641abba6ee6d3e5ebf03d"
+  },
+  {
+    "path": "main_menu.js",
+    "url": "https://www.coolmathgames.com/sites/default/files/public_games/48362/main_menu.js",
+    "bytes": 4071,
+    "sha256": "b6ec1d23462273290df0ae231a8ca192e1285d6604e451f0f83b1647a94d2e41"
+  },
+  {
+    "path": "level_select.js",
+    "url": "https://www.coolmathgames.com/sites/default/files/public_games/48362/level_select.js",
+    "bytes": 7096,
+    "sha256": "75c060d617e32584fad6fe132110ec5fed733d586029466b30092c8a80b2cc7c"
+  },
+  {
+    "path": "finish.js",
+    "url": "https://www.coolmathgames.com/sites/default/files/public_games/48362/finish.js",
+    "bytes": 4046,
+    "sha256": "f9d5d0e510d8b490926dd2cb3f6adf8ca5d9007118a5dd6b50e1ca51dd8330ef"
+  },
+  {
+    "path": "ingame_menu.js",
+    "url": "https://www.coolmathgames.com/sites/default/files/public_games/48362/ingame_menu.js",
+    "bytes": 10980,
+    "sha256": "6d4c3b3250ed9b809398817cd8e7d4e702454748211a3c63bd2a56f451784b18"
+  },
+  {
+    "path": "preloader.js",
+    "url": "https://www.coolmathgames.com/sites/default/files/public_games/48362/preloader.js",
+    "bytes": 6870,
+    "sha256": "80ad6416c3fcf116ffd63b704b644bb2e0d6e40902910305aa5580426575e068"
+  },
+  {
+    "path": "hotkeys.js",
+    "url": "https://www.coolmathgames.com/sites/default/files/public_games/48362/hotkeys.js",
+    "bytes": 2063,
+    "sha256": "9e59562094cdb1e355b5e2b09c8f7fea26cbfe5bbf9be0429317c598c7d86666"
+  },
+  {
+    "path": "main.js",
+    "url": "https://www.coolmathgames.com/sites/default/files/public_games/48362/main.js",
+    "bytes": 3933,
+    "sha256": "3320418eea0703b0fbdb55eec61a8422654f9ed2d33d3ea85324794427c6fb37"
+  },
+  {
+    "path": "style.css",
+    "url": "https://www.coolmathgames.com/sites/default/files/public_games/48362/style.css",
+    "bytes": 125,
+    "sha256": "8da2e166cef9ef9d9abaff78bb39e52d300e1ae3132fbc289620d6c7762d5321"
+  },
+  {
+    "path": "images/main_menu.png",
+    "url": "https://www.coolmathgames.com/sites/default/files/public_games/48362/images/main_menu.png",
+    "bytes": 203265,
+    "sha256": "1e25530431b2de732280774626954eb7dbec831fa366e8d75d2788354821610f"
+  },
+  {
+    "path": "images/main_menu_level_select.png",
+    "url": "https://www.coolmathgames.com/sites/default/files/public_games/48362/images/main_menu_level_select.png",
+    "bytes": 201908,
+    "sha256": "15b9970cbdfaa53442480a5e621d378ac2ce46333a3eb7b0c93ca08d98d275c4"
+  },
+  {
+    "path": "images/main_menu_load_game.png",
+    "url": "https://www.coolmathgames.com/sites/default/files/public_games/48362/images/main_menu_load_game.png",
+    "bytes": 202382,
+    "sha256": "43f3cc6978775fe883ddd6ca692987cdc0a15a64fc318582ca9afe4972934f49"
+  },
+  {
+    "path": "images/main_menu_play_game.png",
+    "url": "https://www.coolmathgames.com/sites/default/files/public_games/48362/images/main_menu_play_game.png",
+    "bytes": 205468,
+    "sha256": "cfbc75df5be77d7a8114c259931dfba333ff5c8a76e7285956d0ce04152fc2e8"
+  },
+  {
+    "path": "sounds/music.mp3",
+    "url": "https://www.coolmathgames.com/sites/default/files/public_games/48362/sounds/music.mp3",
+    "bytes": 4942284,
+    "sha256": "ab4d6ada3f80910aa619308cd1255e559438008205fd747b5e2a575a7274fc13"
+  },
+  {
+    "path": "sounds/sfx_bounce0.mp3",
+    "url": "https://www.coolmathgames.com/sites/default/files/public_games/48362/sounds/sfx_bounce0.mp3",
+    "bytes": 13485,
+    "sha256": "16836a32b2de2e4a366e3dd1caf71da77bc3a513283be043d5e952ffbbe8eebd"
+  },
+  {
+    "path": "sounds/sfx_bounce1.mp3",
+    "url": "https://www.coolmathgames.com/sites/default/files/public_games/48362/sounds/sfx_bounce1.mp3",
+    "bytes": 12333,
+    "sha256": "2064f0741059518e40326e8dc406b55286bba7f9c91ab50f9ef84403d12639de"
+  },
+  {
+    "path": "sounds/sfx_checkpoint.mp3",
+    "url": "https://www.coolmathgames.com/sites/default/files/public_games/48362/sounds/sfx_checkpoint.mp3",
+    "bytes": 3117,
+    "sha256": "ed701ae170737cabfefa5c687cccace5576153382b71ccf3437f448b016a06de"
+  },
+  {
+    "path": "sounds/sfx_click.mp3",
+    "url": "https://www.coolmathgames.com/sites/default/files/public_games/48362/sounds/sfx_click.mp3",
+    "bytes": 2349,
+    "sha256": "da6ea35c0a83563592dec8e0897187bbf22c5e42f864c706ee7af8bcd3863607"
+  },
+  {
+    "path": "sounds/sfx_coin.mp3",
+    "url": "https://www.coolmathgames.com/sites/default/files/public_games/48362/sounds/sfx_coin.mp3",
+    "bytes": 3885,
+    "sha256": "a96d6fd60a7336cd6c7c2bb7b7121b3e8362feb5d3e857d764f2466c14763ec4"
+  },
+  {
+    "path": "sounds/sfx_die.mp3",
+    "url": "https://www.coolmathgames.com/sites/default/files/public_games/48362/sounds/sfx_die.mp3",
+    "bytes": 6189,
+    "sha256": "b276853b5c33ec1075bb8815643ca43e0e28dabe432c15474ec495b4d56f99ad"
+  },
+  {
+    "path": "sounds/sfx_intermission.mp3",
+    "url": "https://www.coolmathgames.com/sites/default/files/public_games/48362/sounds/sfx_intermission.mp3",
+    "bytes": 23469,
+    "sha256": "e55f5b43fdd2a44dce22ff1b1d1237fd96de85c2f599156e36bafdf1c5cb426b"
+  },
+  {
+    "path": "sounds/sfx_win.mp3",
+    "url": "https://www.coolmathgames.com/sites/default/files/public_games/48362/sounds/sfx_win.mp3",
+    "bytes": 16173,
+    "sha256": "709d582b3dc2e3ee403fb5da0b51afb0fec7264f6e441a3db0d22e82d58dca8c"
+  }
+]
