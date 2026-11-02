@@ -1,5 +1,17 @@
 # World's Hardest Game: recorded control research
 
+A Node.js, Playwright, and Python control harness with identifiable actions, recording-health gates, and an auditable run journal. An independent, AI-assisted research project.
+
+**[Inspect the server](server.cjs)** · **[Read the methods](METHODS.md)** · **[Review the results](RESULTS.md)** · **[Watch the silent run](https://youtu.be/zeuWg2qGqW0)**
+
+| Engineering detail | Source |
+| --- | --- |
+| Bounded actions, request receipts, and loopback-only controls | [Controller server](server.cjs) |
+| Sequential completion and input-receipt audit | [Run analyzer](analyze_run.py) |
+| Recording-health checks | [Recording guard checks](check_recording_guards.py) |
+
+## Experiment and recorded result
+
 A state-aware, frame-stepped agent experiment on the 30-level HTML5 edition
 served by Coolmath Games. The game was created by Stephen Critoph / Snubby Land.
 
